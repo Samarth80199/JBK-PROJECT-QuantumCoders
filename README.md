@@ -12,13 +12,13 @@ This project is developed by a team of 4 members with the help of the Spring-Boo
 
 # Team Members
 
-<h4>1. Md Irfan(Team Lead)</h4>
+<h4>1. Samarth Tungle(Team Lead)</h4>
 
-<h4>2. Abhishek Kumar</h4>
+<h4>2. Fahreensaba Shaikh</h4>
 
-<h4>3. Rishabh Mishra</h4>
+<h4>3. Gaytri Gopireddy</h4>
 
-<h4>4. Vinay Pathania</h4>
+
 
 ## Tech Stack and Tools
 - Java
@@ -105,11 +105,4 @@ spring.datasource.url=jdbc:mysql://localhost:3306/FoodExpress;
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.datasource.username=your_username_here
 spring.datasource.password=your_password_here
-```
-## API Root Endpoint
-```
-https://localhost:8080/
-```
-```
-https://localhost:8080/swagger-ui.html
 ```
